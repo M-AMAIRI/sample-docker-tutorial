@@ -64,7 +64,7 @@ $ docker-compose up
 ```
 ###### Output :
 
-![Alt text](img/img.jpg)
+![Alt text](img/Snow On contenair.jpg)
 
 
 
