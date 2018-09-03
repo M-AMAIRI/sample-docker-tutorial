@@ -64,7 +64,7 @@ $ docker-compose up
 ```
 ###### Output :
 
-![text](https://drive.google.com/open?id=1N3nTYIl6jCyTQINt_SaZtHaUlpaeqyk5)
+![text](https://drive.google.com/file/d/1N3nTYIl6jCyTQINt_SaZtHaUlpaeqyk5/view?usp=sharing)
 
 
 
