@@ -64,7 +64,7 @@ $ docker-compose up
 ```
 ###### Output :
 
-![text](/img/Snow On contenair.jpg)
+![text](https://drive.google.com/open?id=1N3nTYIl6jCyTQINt_SaZtHaUlpaeqyk5)
 
 
 
